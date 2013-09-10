@@ -121,7 +121,7 @@ case "$PROJECT" in
 esac
 
 case "$DEVICE" in
-"peak")
+"peak"|"keon")
 	flash_fastboot nounlock $PROJECT
 	;;
 
