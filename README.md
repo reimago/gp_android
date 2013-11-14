@@ -1,12 +1,8 @@
-Android 4.04 para el Geeksphone (Peak)
-=====================================
+Android 4.04
+============
 
-Instrucciones en:
-
-  http://blowakening.wordpress.com/2013/09/05/compila-tu-propia-rom-android-para-el-geeksphone-peak/
-
-Resumen:
---------
+Instructions to build the ROM
+-----------------------------
 
     $ git clone git://github.com/reimago/gp_android.git
     $ cd gp_android
